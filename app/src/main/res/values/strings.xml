@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="habit_streak_format">Seri: %1$d gün</string>
+
+</resources>
